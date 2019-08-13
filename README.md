@@ -1,4 +1,4 @@
-# birdwatchers-journal
+# Birdwatcher's Journal
 A very simple program that does not have a GUI and can only be executed from a command line.
 The journal records both the common and Latin names of birds, as well as the number of times each bird was seen. The program has the following commands : 
 
